@@ -1,6 +1,7 @@
 #COTS MBC
 
 Process: Components Off the Shelf
+
 Designation: Main Battle Computer
 
 Purpose: High-power portable computing with meso-scale build
