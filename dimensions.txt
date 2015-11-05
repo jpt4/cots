@@ -1,0 +1,6 @@
+Dimensions
+
+Lid: Height = 150mm, Width = 200mm, Depth = 23mm
+
+Body: Height = 150mm, Width = 200mm, Depth = 50mm
+
