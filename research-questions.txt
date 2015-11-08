@@ -1,0 +1,18 @@
+UTC20151108
+
+1. Is ECC RAM compatible/can the i7-4770R take advantage of it?
+
+2. A 60% keyboard seems non-controversial due to width restrictions.
+However, is the Ducky Mini the best off-the-shelf mechanical keyboard
+at this size/price point? What others are in the market/better?
+
+3. If not a full mechanical keyboard, what laptop keyboard is the best
+(A) option?
+
+4. What are the asociated electronics needed for the power sub-system?
+
+5. What break-out board does the ThinkPad Carbon LCD screen require?
+
+6. Manufacturing method/design for case?
+
+7. Lowest cost component sources?
