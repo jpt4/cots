@@ -15,3 +15,7 @@ Case Length = 406.4mm, Case Width = 254mm, Case Height = 127mm(this may be sligh
 Case Thickness = dependent on material, defaulting to 2mm
 
 Might put battery on it's side to save vertical height, case only needs to be ~102mm thick not including the lid. In any case there will be plenty of empty space in the case due to the screen and keyboard being a certain width.
+
+Hole for power cord = 37mm(W)x30mm(L) (This is an estimate based on outlet cover dimensions)
+
+Could lay battery on its side and then put the charger and adapter longways below the keyboard.
