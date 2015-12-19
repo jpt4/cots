@@ -1,8 +1,21 @@
-Dimensions
+Revised Dimensions:
 
-This should be more realistic, i.e. 17 in wide screen/19 in wide case
+x1 carbon screen 2560x1600 14.0 inches, does this include bezel?
 
-Lid: Height = 150mm, Width = 200mm, Depth = 23mm
+ducky mini Dimensions: 295(L)x102(W)x38(H) mm, going to need to embed this so keys do not depress
 
-Body: Height = 150mm, Width = 200mm, Depth = 50mm
+brix 62(H) x 111.4 x 114.4 mm ( 2.4” x 4.3” x 4.5”), needs to be positioned relative to ports, cooling, power input, and power button
 
+tenergy charger 132.08 x 58.42 x 33.02 mm, will require dimensions of brix ac adapter but there currently seems to be enough room to accommodate it(The current 3d representation is a copy of the tenergy charger although I think that the brix ac adapter is slightly smaller).
+
+tenergy battery Product Dimension: 151 x 64 x 95mm
+
+Case Length = 406.4mm, Case Width = 254mm, Case Height = 127mm(this may be slightly excessive, since the keyboard and the brix together total 100mm hence 110mm may be more realistic), Lid Thickness = 25.4mm, Total Height = 152.4mm
+
+Case Thickness = dependent on material, defaulting to 2mm
+
+Might put battery on it's side to save vertical height, case only needs to be ~102mm thick not including the lid. In any case there will be plenty of empty space in the case due to the screen and keyboard being a certain width.
+
+Hole for power cord = 37mm(W)x30mm(L) (This is an estimate based on outlet cover dimensions)
+
+Could lay battery on its side and then put the charger and adapter longways below the keyboard.
