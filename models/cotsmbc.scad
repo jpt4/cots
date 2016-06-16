@@ -1,3 +1,6 @@
+// cotsmbc.scad
+// SCAD design for COTS MBC case
+
 module lid() { //still need rod to connect lid to body
     
     difference() { //upper lid edge
