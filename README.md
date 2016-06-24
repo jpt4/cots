@@ -41,7 +41,7 @@ TDP
 
 Price: 649.99 USD
 
-## Memory:
+## System Memory:
 
 Decision made
 
@@ -50,7 +50,7 @@ G.SKILL Ripjaws Series 32GB (2 x 16G) 260-Pin DDR4 SO-DIMM DDR4 2133
 
 Price: 159.99 USD
 
-## Storage:
+## Storage Memory:
 
 Decision made
 
