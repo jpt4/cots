@@ -115,7 +115,8 @@ Price: 100-150 USD
 
 ## Audio I/O
 
-Combo audio jack microphone/headphone headset
+[TBA] Adapt Soradin marine headphones for computer stereo
+audio/microphone port.
 
 Speakers
 
