@@ -1,3 +1,8 @@
+UTC20160821
+
+Document obviated due to change in compute unit to Intel NUC6i7KYK
+(SkullCanyon).
+
 UTC20151108
 
 1. Is ECC RAM compatible/can the i7-4770R take advantage of it?
@@ -6,8 +11,12 @@ UTC20151108
 However, is the Ducky Mini the best off-the-shelf mechanical keyboard
 at this size/price point? What others are in the market/better?
 
+Answer: 40% ortholinear Planck mechanical keyboard.
+
 3. If not a full mechanical keyboard, what laptop keyboard is the best
 (A) option?
+
+See above.
 
 4. What are the asociated electronics needed for the power sub-system?
 

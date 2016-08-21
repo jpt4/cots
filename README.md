@@ -93,13 +93,23 @@ DC-DC converter
 
 Battery Management System (akin to e-bike?)
 
-[TBA]
+2 x 120 WHr LiFePo4 motorcylce battery
+12 V -> 19 V voltage converter
+
+~14 ga. wire with 5.5 mm/Outer Dimension, 2.5 mm/Inner Dimension
+barrel plug. Inner contact +19 (+-10%) V DC, shell GND, max current
+rating 10 A.
+
+[TBA] Buffering capacitors, battery switchover system, simultaneous
+charge/discharge
 
 Price: [TBA]
 
 ## Keyboard Input:
 
 **P** Custom Axiom gull-wing split 44-key mechanical keyboard
+Current choice:
+48 key 40% ortholinear Planck mechanical keyboard
 
 Price: 100-150 USD
 
@@ -107,7 +117,7 @@ Price: 100-150 USD
 
 Combo audio jack microphone/headphone headset
 
-Speakers (?)
+Speakers
 
 Price: [TBA]
 
@@ -116,6 +126,8 @@ Price: [TBA]
 Pelican 1400/1450
 
 Price: 75-100 USD 
+
+Drone case (?)
 
 ## Total Cost 
 
