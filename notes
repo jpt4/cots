@@ -1,0 +1,2 @@
+UTC20161016
+sudo dfu-util -d <lsusb ID> -D planck_rev4_default.hex
